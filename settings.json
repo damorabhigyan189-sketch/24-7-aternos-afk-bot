@@ -6,9 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "friendsonlySMP-5bV7.aternos.me
+    "ip": "friendsonlySMP-5bV7.aternos.me",
 
-",
     "port": 11684,
     "version": "1.20.1",
     "try-creative": false
